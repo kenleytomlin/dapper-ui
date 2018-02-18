@@ -1,0 +1,41 @@
+{
+  "name": "dapper-ui",
+  "version": "1.0.0",
+  "description": "A collection of styled components for the discerning react developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenleytomlin/dapper-ui.git"
+  },
+  "keywords": [
+    "react",
+    "styled-components",
+    "flexbox",
+    "grid"
+  ],
+  "author": "kenleytomlin@gmail.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kenleytomlin/dapper-ui/issues"
+  },
+  "homepage": "https://github.com/kenleytomlin/dapper-ui#readme",
+  "dependencies": {
+    "styled-components": "^3.1.6"
+  },
+  "peerDependencies": {
+    "react": "^16.2.0"
+  },
+  "devDependencies": {
+    "commitizen": "^2.9.6",
+    "cz-conventional-changelog": "^2.1.0",
+    "lerna": "^2.9.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
