@@ -1,0 +1,8 @@
+{
+  "name": "dapper-ui-theme-provider",
+  "version": "1.0.0",
+  "description": "The default theme provider for dapper-ui",
+  "main": "index.js",
+  "author": "kenleytomlin@gmail.com",
+  "license": "Apache-2.0"
+}

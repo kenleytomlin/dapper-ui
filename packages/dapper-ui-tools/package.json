@@ -1,0 +1,10 @@
+{
+  "name": "dapper-ui-tools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "kenleytomlin@gmail.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "polished": "^1.9.2"
+  }
+}

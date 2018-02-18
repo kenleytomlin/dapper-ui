@@ -1,0 +1,16 @@
+{
+  "name": "dapper-ui-grid",
+  "version": "1.0.0",
+  "description": "Flexbox based grid system",
+  "main": "index.js",
+  "author": "kenleytomlin@gmail.com",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dapper-ui-tools": "^1.0.0",
+    "polished": "^1.9.2",
+    "styled-components": "^3.1.6"
+  },
+  "peerDependencies": {
+    "react": "^16.2.0"
+  }
+}
